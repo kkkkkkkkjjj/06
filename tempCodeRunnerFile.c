@@ -33,3 +33,6 @@ scanf("%d",&r);
 result = combination(n,r);
 printf("result is %i\n", result);
 }
+
+
+
